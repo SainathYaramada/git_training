@@ -1,5 +1,1 @@
-This is a test file 
-
-and we are making changes locally
-
-we are adding one more line this time
+Hurray!!! we learned pushing file into repository.
